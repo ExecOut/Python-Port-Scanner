@@ -1,8 +1,8 @@
-## Description
+# Description
 
 very simple port scanner, it is slow but it works. Mainly intended to be a project for learning. 
 
-# HOW TO USE
+## HOW TO USE
 
 ~The program will ask for the port_min which is the port number that you want to scan from.
 
